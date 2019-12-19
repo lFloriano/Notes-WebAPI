@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes_API", "Notes_API\Notes_API.csproj", "{BA2165DF-FF5D-4C6C-8ACE-75D18B32CB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2165DF-FF5D-4C6C-8ACE-75D18B32CB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2165DF-FF5D-4C6C-8ACE-75D18B32CB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2165DF-FF5D-4C6C-8ACE-75D18B32CB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2165DF-FF5D-4C6C-8ACE-75D18B32CB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A025BF-5C1E-44BA-9B99-B3BCECACB054}
+	EndGlobalSection
+EndGlobal
